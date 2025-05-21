@@ -47,8 +47,8 @@
 *   **Java Runtime Environment (JRE) versión 21 o superior.** Puedes verificar tu versión de Java abriendo una terminal y escribiendo `java -version`. Si necesitas instalar o actualizar Java, puedes descargarlo desde [Oracle](https://www.oracle.com/java/technologies/downloads/) o [Adoptium (Temurin)](https://adoptium.net/).
 
 ### Opción 1: Usando el archivo JAR (Recomendado)
-<!-- [**Releases**](https://github.com/JoseCarioca/TU_NOMBRE_DE_REPOSITORIO/releases) -->
-1.  Descarga el archivo `ca1DSimGUI.jar` de la sección de (link en proceso) de este repositorio.
+<!-- [**Releases**](https://github.com/JoseCarioca/Cellular-Automata-GUI/releases) -->
+1.  Descarga el archivo `ca1DSimGUI.jar` de la sección de [**Releases**](https://github.com/JoseCarioca/Cellular-Automata-GUI/releases)de este repositorio.
 2.  Una vez descargado, ejecuta el JAR desde la línea de comandos:
     ```bash
     java -jar ca1DSimGUI.jar
