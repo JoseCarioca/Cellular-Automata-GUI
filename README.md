@@ -5,8 +5,10 @@
 ## 📸 Capturas
 
 
-[Captura con 3 estados (ejemplo propuesto)](img/Estados3.png)
-[Captura con 7 estados](img/Estados7.png)
+![Captura con 3 estados (ejemplo propuesto)](img/Estados3.png)
+
+
+![Captura con 7 estados](img/Estados7.png)
 
 ## ✨ Características Principales
 
